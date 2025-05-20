@@ -1,7 +1,7 @@
 ![MasterHead](https://r6q2d4e3.stackpathcdn.com/wp-content/uploads/2022/09/C21-Web-Developer-%E2%80%93-Blog-Header.jpg)
 
 <h1 align="center">Hi 👋, I'm Rahat Jabeen</h1>
-<h3 align="center">👨‍💻 Web Developer | Passionate about Crafting Digital Experiences 🌐</h3>
+<h3 align="center">👨‍💻 Software Developer | Passionate about Crafting Digital Experiences 🌐</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahatjabeen1&label=Profile%20views&color=0e75b6&style=flat" alt="rahatjabeen1" /> </p>
